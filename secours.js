@@ -1,0 +1,174 @@
+window.MAMA_SECOURS = {
+  "maj": "2026-10-07T12:30:00-10:00",
+  "note": "TEST VIRTUEL · démonstration. Les promotions sont réelles : relevées le 6 octobre 2026 sur hyperutahiti.com et le 5 octobre sur tahitipascher.pf. Ces enseignes ne sont pas partenaires de Māmā et n'ont pas publié ces promos elles-mêmes.",
+  "commerces": [
+    {
+      "id": "hyper-u-pirae",
+      "nom": "Hyper U Pirae",
+      "secteur": "Alimentation",
+      "commune": "Pirae",
+      "adresse": "Avenue du Prince Hinoi, Pirae",
+      "tel": "",
+      "abonnement": "2027-12-31"
+    },
+    {
+      "id": "tahiti-pas-cher-punaauia",
+      "nom": "Tahiti Pas Cher",
+      "secteur": "Maison et bricolage",
+      "commune": "Punaauia",
+      "adresse": "Magasin de Punaauia",
+      "tel": "",
+      "abonnement": "2027-12-31"
+    },
+    {
+      "id": "tahiti-pas-cher-arue",
+      "nom": "Tahiti Pas Cher",
+      "secteur": "Maison et bricolage",
+      "commune": "Arue",
+      "adresse": "Magasin d'Arue",
+      "tel": "",
+      "abonnement": "2027-12-31"
+    },
+    {
+      "id": "tahiti-pas-cher-taravao",
+      "nom": "Tahiti Pas Cher",
+      "secteur": "Maison et bricolage",
+      "commune": "Taravao",
+      "adresse": "Magasin de Taravao",
+      "tel": "",
+      "abonnement": "2027-12-31"
+    }
+  ],
+  "promos": [
+    {
+      "id": "hu1",
+      "commerce": "hyper-u-pirae",
+      "produit": "Mayonnaise",
+      "prixNormal": 890,
+      "prixPromo": 790,
+      "fin": "2026-10-11",
+      "photo": "photo-mayonnaise.jpg",
+      "dessin": "mayonnaise"
+    },
+    {
+      "id": "hu2",
+      "commerce": "hyper-u-pirae",
+      "produit": "Biscuits Delta Cream",
+      "prixNormal": 770,
+      "prixPromo": 690,
+      "fin": "2026-10-11",
+      "photo": "photo-biscuits.jpg",
+      "dessin": "biscuits"
+    },
+    {
+      "id": "hu3",
+      "commerce": "hyper-u-pirae",
+      "produit": "Tablette de chocolat",
+      "prixNormal": 440,
+      "prixPromo": 395,
+      "fin": "2026-10-11",
+      "photo": "photo-chocolat.jpg",
+      "dessin": "chocolat"
+    },
+    {
+      "id": "hu4",
+      "commerce": "hyper-u-pirae",
+      "produit": "Crème glacée ou sorbet",
+      "prixNormal": 1135,
+      "prixPromo": 995,
+      "fin": "2026-10-11",
+      "photo": "photo-glace.jpg",
+      "dessin": "glace"
+    },
+    {
+      "id": "tp1",
+      "commerce": "tahiti-pas-cher-punaauia",
+      "produit": "Air Fryer 2 L, 1000 W",
+      "prixNormal": 8990,
+      "prixPromo": 6500,
+      "fin": "2026-10-31",
+      "photo": "photo-airfryer.jpg",
+      "dessin": "airfryer"
+    },
+    {
+      "id": "tp2",
+      "commerce": "tahiti-pas-cher-punaauia",
+      "produit": "Machine à laver 9,5 kg",
+      "prixNormal": 29900,
+      "prixPromo": 26900,
+      "fin": "2026-10-31",
+      "photo": "photo-machine-a-laver.jpg",
+      "dessin": "machine-a-laver"
+    },
+    {
+      "id": "tp3",
+      "commerce": "tahiti-pas-cher-punaauia",
+      "produit": "Four à pizza",
+      "prixNormal": 8990,
+      "prixPromo": 5000,
+      "fin": "2026-10-31",
+      "photo": "photo-four-pizza.jpg",
+      "dessin": "four-pizza"
+    },
+    {
+      "id": "tp4",
+      "commerce": "tahiti-pas-cher-punaauia",
+      "produit": "Gourde 900 ml",
+      "prixNormal": 1290,
+      "prixPromo": 1000,
+      "fin": "2026-10-31",
+      "photo": "photo-gourde.jpg",
+      "dessin": "gourde"
+    },
+    {
+      "id": "ta1",
+      "commerce": "tahiti-pas-cher-arue",
+      "produit": "Trampoline 2,45 m",
+      "prixNormal": 24900,
+      "prixPromo": 19900,
+      "fin": "2026-10-31",
+      "photo": "photo-trampoline.jpg",
+      "dessin": "trampoline"
+    },
+    {
+      "id": "ta2",
+      "commerce": "tahiti-pas-cher-arue",
+      "produit": "Table alu extensible 160/240",
+      "prixNormal": 59900,
+      "prixPromo": 39900,
+      "fin": "2026-10-31",
+      "photo": "photo-table-alu.jpg",
+      "dessin": "table"
+    },
+    {
+      "id": "ta3",
+      "commerce": "tahiti-pas-cher-arue",
+      "produit": "Chaise pliante Foldy noire",
+      "prixNormal": 1690,
+      "prixPromo": 1200,
+      "fin": "2026-10-31",
+      "photo": "photo-chaise.jpg",
+      "dessin": "chaise"
+    },
+    {
+      "id": "tt1",
+      "commerce": "tahiti-pas-cher-taravao",
+      "produit": "Salon d'angle + table",
+      "prixNormal": 109000,
+      "prixPromo": 94900,
+      "fin": "2026-10-31",
+      "photo": "photo-salon.jpg",
+      "dessin": "salon"
+    },
+    {
+      "id": "tt2",
+      "commerce": "tahiti-pas-cher-taravao",
+      "produit": "Extracteur de jus 1500 ml",
+      "prixNormal": 6990,
+      "prixPromo": 5000,
+      "fin": "2026-10-31",
+      "photo": "photo-extracteur.jpg",
+      "dessin": "extracteur"
+    }
+  ]
+};
